@@ -43,7 +43,7 @@ function YoutubeForm() {
         >
             <Form>
                 <div className="form-control">
-                    <label htmlFor="name">Name (test)</label>
+                    <label htmlFor="name">Name test</label>
                     <Field type="text" id="name" name="name" />
                     <ErrorMessage name="name" />
                 </div>
